@@ -1,0 +1,10 @@
+aiogram==3.*
+redis
+black
+isort
+flake8
+mypy
+pytest
+sentry-sdk
+numpy
+scikit-learn
